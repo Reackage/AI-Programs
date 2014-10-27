@@ -1,0 +1,11 @@
+Author: rbreak
+ID:
+class: CIS*3700
+Assignment: 2
+
+
+running: same as the write up specified. 
+java DecisionTreeLearning scheme-file training-file
+
+
+note: the output's separation with new lines is buggy.

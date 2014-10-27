@@ -1,0 +1,25 @@
+income
+0
+
+0, <$15K, HIGH, 0		0, $15-35K, creditHis, 1		0, >$35K, collateral, 2		
+
+
+
+1, BAD, HIGH, 0		1, GOOD, MODERATE, 1		1, UNKNOWN, debt, 2		
+
+
+
+
+
+2, HIGH, HIGH, 0		2, LOW, MODERATE, 1		
+
+
+
+
+
+2, ADEQUATE, risk, 0		2, NONE, risk, 1		
+
+
+
+
+

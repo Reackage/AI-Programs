@@ -1,0 +1,19 @@
+customer
+0
+
+0, NONE, NO, 0		0, SOME, YES, 1		0, FULL, hungry, 2		
+
+
+
+
+
+
+
+
+2, YES, friOrSat, 0		2, NO, NO, 1		
+
+
+0, YES, reserved, 0		0, NO, NO, 1		
+
+
+0, YES, NO, 0		0, NO, YES, 1		
